@@ -1,0 +1,15 @@
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csprojAssemblyReference.cache
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Form1.resources
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.GenerateResource.cache
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb
+C:\Prog1815\Assignment_3_Mahjabin_Sajadi\Assignment3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.genruntimeconfig.cache

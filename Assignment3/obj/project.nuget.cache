@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oTG44/ndUukoEa8Adq1n/RHMoDUrSyPAmxCYV3TC6ZT/Y3ooeXEJCFai/UBf/frKIv7EH2rwwo2XQYHjF6+3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahun\\Downloads\\Assignment_3_Mahjabin_Sajadi\\Assignment_3_Mahjabin_Sajadi\\Assignment3\\Assignment3\\Assignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\mahun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mahun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mahun\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
